@@ -7,4 +7,4 @@ https://github.com/PramodGouda-official/Valtech-Assignments/tree/main/Codility%2
 Assignmnet 3 on Servlets and JSP: 
 https://github.com/PramodGouda-official/Valtech-Assignments/tree/main/Employee_Assignment
 
-To run the Employee_Assignment use the following link : http://localhost:8080/Employee_Assignment/empCtlr
+To run the Servlets and JSP Employee_Assignment use the following link : http://localhost:8080/Employee_Assignment/empCtlr
