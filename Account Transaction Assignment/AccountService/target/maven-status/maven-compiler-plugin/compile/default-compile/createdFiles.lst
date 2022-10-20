@@ -1,0 +1,11 @@
+com\valtech\account\controllers\AccountRestController.class
+com\valtech\account\entity\Account.class
+com\valtech\account\repository\CustomerRepository.class
+com\valtech\account\entity\Customer.class
+com\valtech\account\repository\AccountRepository.class
+com\valtech\account\service\AccountServiceImpl.class
+com\valtech\account\controllers\CustomerRestController.class
+com\valtech\account\service\CustomerServiceImpl.class
+com\valtech\account\service\CustomerService.class
+com\valtech\account\service\AccountService.class
+com\valtech\account\AccountServiceApplication.class
