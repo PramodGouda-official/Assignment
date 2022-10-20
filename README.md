@@ -11,3 +11,6 @@ To run the Servlets and JSP Employee_Assignment use the following link : http://
 
 Assignment 4 on Bookstore done in Hibernate :
 https://github.com/PramodGouda-official/Valtech-Assignments/tree/main/Assignment-BookStore
+
+Assignment 4 on Bookstore done in Spring Boot :
+https://github.com/PramodGouda-official/Valtech-Assignments/tree/main/BookStoreSpringBootAssignment
